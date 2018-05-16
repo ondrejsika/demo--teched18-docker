@@ -2,6 +2,8 @@
 
     Ondrej Sika <ondrej@ondrejsika.com>
 
+See slides here: <https://ondrej-sika.cz/blog/2018/teched>
+
 
 ## Run with Docker command
 
